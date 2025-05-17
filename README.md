@@ -1,4 +1,6 @@
-# CN230 Project 
+# CN230 Project Dog breeds Analysis
+Made by Supawich Boonpraseart 6610685346
+This project uses data from https://dog.ceo/dog-api/
 
     python dog_breeds.py
 
